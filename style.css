@@ -62,3 +62,46 @@ body{
     background: #838996;
 
 }   
+.body-two{
+    width: 500px;
+    border: 1px solid black;
+    width: 600px;
+    height: 500px;
+    margin-top: 20px;
+    border: none;
+    
+}
+.body-two-top{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 0px 140px 100px 140px;
+    
+}
+.body-two h1{
+    font-size: 60px;
+    text-align: center;
+    margin-top: 25px;
+    
+}
+.in-one{
+    font-size: 30px;
+    text-align: center;
+    color: #1E90FF;
+    
+    
+}
+.para{
+    font-size: 28px;
+    text-align: center;
+    color: #FFA62F;
+    font-weight: bold;
+}
+.para-two{
+    font-size: 25px;
+    color: #5c5959;
+    font-weight: 100;
+}
+.img{
+    margin-top: 30px;
+}
