@@ -1,0 +1,24 @@
+body{
+    margin: auto;
+}
+.middle-head{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.last-head a{
+    text-decoration: none;
+    margin-left: 28px;
+    font-size: 18px;
+    color: #454545;
+}
+.builders{
+    font-size: 40px;
+}
+.all-head{
+    border: 1px solid black;
+    padding: 0px 80px 0px 80px;
+}
+.last-head a:hover{
+    color: tomato;
+}
