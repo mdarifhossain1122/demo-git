@@ -18,7 +18,47 @@ body{
 .all-head{
     border: 1px solid black;
     padding: 0px 80px 0px 80px;
+    border: none;
 }
 .last-head a:hover{
     color: tomato;
 }
+.body-image{
+    background-image: url(https://www.cscs.uk.com/wp-content/uploads/2019/08/1440x492_v11.jpg);
+    height: 492px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.two-head{
+    border: 1px solid black;
+    width: 500px;
+    margin-left: 200px;
+    padding-top: 80px;
+    border: none;
+}
+.two-head h1{
+    font-size: 50px;
+}
+.two-head p{
+    font-size: 25px;
+}
+.btn{
+    padding: 15px 25px 15px 25px;
+    border-radius: 8px;
+    border: none;
+    margin-right: 20px;
+    background: #1E90FF;
+    color: white;
+    font-size: 16px;
+}
+.btn-two{
+    padding: 15px 25px 15px 25px;
+    border-radius: 8px;
+    border: none;
+    font-size: 16px;
+    color: #1E90FF;
+}
+.btn:hover{
+    background: #838996;
+
+}   
