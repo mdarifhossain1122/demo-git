@@ -381,7 +381,7 @@ body{
     margin-top: 100px;
     margin-bottom: 100px;
 }
-a{
+.another a{
     text-decoration: none;
     color: #1E90FF;
     border-left: 1px solid black;
