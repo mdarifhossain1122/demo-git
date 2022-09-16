@@ -337,3 +337,65 @@ body{
     text-align: center;
     margin-top: 100px;
 }
+.vdo{
+    text-align: center;
+    margin-top: 100px;
+}
+.vdo-para{
+    font-size: 22px;
+    color: #838996;
+    margin-left: 130px;
+    margin-top: 100px;
+}
+.vdo-head{
+    font-size: 30px;
+    text-align: center;
+    color: #1E90FF;
+}
+.vdo-head:hover:hover{
+    color: #838996;
+}
+.vdo-image{
+    text-align: center;
+}
+.support-para{
+    font-size: 20px;
+    color: #838996;
+    margin-left: 160px;
+    margin-top: 50px;
+
+}
+.today-head{
+    font-size: 30px;
+    color: #1E90FF;
+    text-align: center;
+    margin-top: 100px;
+    
+}
+.today-head:hover{
+    color: #838996;
+}
+.own{
+    text-align: center;
+    font-size: 20px; 
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+a{
+    text-decoration: none;
+    color: #1E90FF;
+    border-left: 1px solid black;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+a:hover{
+    color: #838996;
+}
+.ftr{
+    text-align: center;
+}
+.ftr-head{
+    text-align: center;
+    color: #838996;
+    font-size: 25px;
+}
